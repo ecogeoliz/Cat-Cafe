@@ -1,0 +1,22 @@
+body{
+  font-family:courier;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #4EBA6F;
+  width: 80%;
+}
+
+img{
+  width:60%;
+}
+
+h2{
+  border: 1px solid black;
+  margin: 40px;
+  padding: 30px;
+}
+
+
+h1{
+  color:blue;
+}
